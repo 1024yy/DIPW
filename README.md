@@ -1,7 +1,7 @@
 # DIPW
 Official code for "Fixing the Double Agent Vulnerability of Deep Watermarking: A Patch-Level Solution against Artwork Plagiarism" (IEEE TCSVT)
 <p align="center">
-    <img src=DIPW.png width="90%">   
+    <img src=DIPW.png width="98%">   
 </p>
 
 
