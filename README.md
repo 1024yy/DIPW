@@ -11,4 +11,4 @@ If there are any questions, feel free to contact with the author: Yuanjing Luo (
 
 ## Acknowledgements
 
-YOLOX(https://github.com/Megvii-BaseDetection/YOLOX)https://github.com/Megvii-BaseDetection/YOLOX)
+[[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)https://github.com/Megvii-BaseDetection/YOLOX)]
