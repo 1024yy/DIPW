@@ -8,3 +8,7 @@ Official code for "Fixing the Double Agent Vulnerability of Deep Watermarking: A
 ## Contributors and Contact
 
 If there are any questions, feel free to contact with the author: Yuanjing Luo (yjluo1024@foxmail.com).
+
+## Acknowledgements
+
+[YOLOX([https://dl.acm.org/doi/abs/10.1145/3543507.3583489](https://github.com/Megvii-BaseDetection/YOLOX)https://github.com/Megvii-BaseDetection/YOLOX)]
